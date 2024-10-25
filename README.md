@@ -1,5 +1,5 @@
 # Unity-2D-IEEE-CS-Space-Wars-Game-Project
-- IEEE Dogus Ubiversity Computer Society
+- IEEE Dogus University Computer Society
 - 14 May 2021
 - Play Demo: <a href="https://kenanaegean.github.io/Unity-2D-IEEE-CS-Space-Wars-Game-Project/">IEEE CS Space Wars</a>
 
@@ -11,7 +11,7 @@
 
 <h3>DESCRIPTION</h3>
 Demo game project created by me.
-Game Project for IEEE Dogus Ubiversity Computer Society
+Game Project for IEEE Dogus University Computer Society
 Thanks for playing!
 
 <br><b>Screenshots</b>
