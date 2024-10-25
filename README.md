@@ -11,8 +11,8 @@
 
 <h3>DESCRIPTION</h3>
 Demo game project created by me.
-Game Project for IEEE Dogus University Computer Society
-Thanks for playing!
+<br>Game Project for IEEE Dogus University Computer Society
+<br>Thanks for playing!
 
 <br><b>Screenshots</b>
 
